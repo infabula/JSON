@@ -1,0 +1,22 @@
+
+
+.player {
+	border: solid black 1px;
+	margin: 0.5em;
+	width: 20.0em;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.function {
+    font-style: italic;
+    color: grey;
+}
+
+.role {
+    font-style: italic;
+    color: grey;
+}
